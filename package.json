@@ -1,8 +1,9 @@
 {
   "name": "bp_react_components",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "main": "src/index.tsx",
+  "license": "GPL-3.0-or-later",
+  "author": "Aurélien Dudonney",
   "scripts": {
     "start": "webpack serve --mode development --open",
     "storybook": "start-storybook -p 6006",
