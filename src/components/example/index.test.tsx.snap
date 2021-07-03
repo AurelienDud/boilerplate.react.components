@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test using snapshot 1`] = `
+<button
+  className="go1776512497 go2993169732 go3862641954"
+  style={
+    Object {
+      "backgroundColor": undefined,
+    }
+  }
+  type="button"
+>
+  hello
+</button>
+`;
